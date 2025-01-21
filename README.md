@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Mark E. Warner
+Professor within the [School of Marine Science and Policy at the University of Delaware](https://www.udel.edu/academics/colleges/ceoe/departments/smsp/). 
 <!--
 **mrkwarner/mrkwarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
